@@ -43,6 +43,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,6 +57,7 @@
       <updated>1696236178612</updated>
       <workItem from="1696236179434" duration="307000" />
       <workItem from="1696236518609" duration="773000" />
+      <workItem from="1696240736893" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="added first text to website">
       <option name="closed" value="true" />
@@ -81,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696240638515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added first text to website">
+      <option name="closed" value="true" />
+      <created>1696240797811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696240797811</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added first text to website">
+      <option name="closed" value="true" />
+      <created>1696241148090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696241148090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
