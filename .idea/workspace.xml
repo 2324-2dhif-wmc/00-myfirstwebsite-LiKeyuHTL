@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696236178612</updated>
       <workItem from="1696236179434" duration="307000" />
-      <workItem from="1696236518609" duration="408000" />
+      <workItem from="1696236518609" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="added first text to website">
       <option name="closed" value="true" />
@@ -65,11 +65,38 @@
       <option name="project" value="LOCAL" />
       <updated>1696236922462</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added first text to website">
+      <option name="closed" value="true" />
+      <created>1696237180923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696237180923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added first text to website">
+      <option name="closed" value="true" />
+      <created>1696240638514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696240638515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added first text to website" />
